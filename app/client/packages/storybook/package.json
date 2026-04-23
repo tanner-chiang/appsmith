@@ -34,8 +34,8 @@
     "babel-loader": "9.1.2",
     "chromatic": "^11.3.0",
     "react-docgen-typescript": "^2.2.2",
-    "storybook": "^8.2.7",
-    "vite": "^5.3.5",
+    "storybook": "^10.3.5",
+    "vite": "^8.0.10",
     "vite-plugin-svgr": "^4.2.0"
   },
   "dependencies": {
